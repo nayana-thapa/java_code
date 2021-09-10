@@ -1,4 +1,4 @@
-package com.company;
+package com.nayana;
 
 import java.net.SocketTimeoutException;
 import java.util.Scanner;

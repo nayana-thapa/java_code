@@ -1,6 +1,6 @@
-package com.company;
+package com.nayana;
 
-public class FirstandLast {
+public class InfiniteArray {
     public static void main(String[] args) {
         int [] x = {12,14,16,18,20,22,34,67,90};
         int find = 90;

@@ -1,4 +1,4 @@
-package com.company;
+package com.nayana;
 
 import java.sql.SQLOutput;
 import java.util.Arrays;

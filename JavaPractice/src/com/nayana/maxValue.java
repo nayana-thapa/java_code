@@ -1,4 +1,4 @@
-package com.company;
+package com.nayana;
 
 
 import java.util.Arrays;

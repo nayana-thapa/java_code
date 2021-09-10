@@ -1,4 +1,4 @@
-package com.company;
+package com.nayana;
 
 public class StringSearch {
     public static void main(String[] args) {
