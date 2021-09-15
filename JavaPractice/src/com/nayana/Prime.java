@@ -1,6 +1,6 @@
-com.nayana
+package com.nayana;
 import java.util.Scanner;
-public class Prime {
+public class Prime{
     static boolean isPrime(int a){
         if(a<=3){
             return true;
